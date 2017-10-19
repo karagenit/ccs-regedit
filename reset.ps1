@@ -47,7 +47,7 @@
 	#To suggest fixes for additional features, feel free to comment below
 	#To disable certain fucntions, simply comment it out with a # in front
 	#Settings will affect only the current user on the current machine
-	#Licensed under GPLv3
+	#Licensed under MIT
 
 #Changelog
 
